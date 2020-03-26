@@ -6,6 +6,6 @@ permalink: ./
 # Data 2080: Explanation
 _class references from 2020-03-12_
 
-## [Slides](/slides)
+## [Slides]({% link slides.md %})
 
-## [Handout](/handout)
+## [Handout]({% link handout.md %})
