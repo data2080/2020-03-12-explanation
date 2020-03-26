@@ -1,0 +1,60 @@
+# Your presentation title
+title: Data 2080
+
+# Your presentation description (optional)
+description: A framework for easily creating beautiful presentations using HTML
+
+# Your name (optional)
+author: Sarah Brown
+authorurl: http://sarahmbrown.org
+
+# overall theme
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: brownsarahm/jekyll-reveal-deck-pack
+
+# The Reveal theme
+reveal_theme: league.css
+
+
+
+collections:
+  explanation:
+
+# The Reveal transition
+reveal_transition: none
+
+
+# Additional custom CSS paths
+extra_css: revealmods.css
+
+# Custom CSS for highlighting (defaults to reveal.js/lib/css/zenburn.css)
+highlight_style_sheet:
+
+# Embed Server-side speaker notes?
+reveal_notes_server: false
+
+# Additional reveal.js options
+reveal_options:
+
+# Additional reveal.js dependencies
+reveal_dependencies:
+
+# Reveal.js subdirectory
+reveal_path: reveal.js/
+
+# Exclude directories and/or files from the conversion
+exclude:
+  - Gemfile*
+  - README.md
+
+# Don't change anything below
+markdown: kramdown
+highlighter: rouge
+markdown_ext: ignoreme
+
+colors:
+    fullblack: '#000'
+    black: '#000'
+    fullwhite: '#fff'
