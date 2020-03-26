@@ -52,7 +52,7 @@ exclude:
 # Don't change anything below
 markdown: kramdown
 highlighter: rouge
-markdown_ext: ignoreme
+# markdown_ext: ignoreme
 
 colors:
     fullblack: '#000'
