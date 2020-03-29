@@ -1,12 +1,12 @@
 # Your presentation title
-title: Data 2080
+title: Explanation of Black Box Models
 
 # Your presentation description (optional)
-description: A framework for easily creating beautiful presentations using HTML
+description: DATA2080 class on March 12, 2020
 
 # Your name (optional)
 author: Sarah Brown
-authorurl: http://sarahmbrown.org
+authorurl: sarahmbrown.org
 
 # overall theme
 plugins:
@@ -15,19 +15,20 @@ plugins:
 remote_theme: brownsarahm/jekyll-reveal-deck-pack
 
 # The Reveal theme
-reveal_theme: league.css
-
-
+reveal_theme: black.css
 
 collections:
-  explanation:
+  slides:
+    defaults:
 
 # The Reveal transition
 reveal_transition: none
 
+# Path to the used theme (defaults to the Reveal.js standard theme path)
+reveal_theme_path: reveal.js/css/theme/
 
 # Additional custom CSS paths
-extra_css: revealmods.css
+extra_css:
 
 # Custom CSS for highlighting (defaults to reveal.js/lib/css/zenburn.css)
 highlight_style_sheet:
@@ -52,9 +53,3 @@ exclude:
 # Don't change anything below
 markdown: kramdown
 highlighter: rouge
-# markdown_ext: ignoreme
-
-colors:
-    fullblack: '#000'
-    black: '#000'
-    fullwhite: '#fff'

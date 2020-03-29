@@ -3,9 +3,8 @@ layout: page
 permalink: ./
 ---
 
-# Data 2080: Explanation
-_class references from 2020-03-12_
+# Explanation of Black Box Models
+_DATA2080 class on March 12, 2020_
 
-## [Slides]({% link slides.md %})
-
-## [Handout]({% link handout.md %})
+## [Slides]({{ site.baseurl }}{% link slides.md %})
+## [Handout]({{ site.baseurl }}{% link handout.md %})

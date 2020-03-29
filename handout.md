@@ -1,5 +1,7 @@
 ---
 layout: handouts
-slideset: explanation
+slideset: slides
 permalink: handout/
 ---
+
+

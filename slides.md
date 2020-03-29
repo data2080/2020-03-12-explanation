@@ -1,5 +1,4 @@
 ---
 layout: slides
-slideset: explanation
-permalink: slides/
+slideset: slides
 ---

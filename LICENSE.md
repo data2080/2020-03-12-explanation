@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Instructional Material
 
 This instructional material is
